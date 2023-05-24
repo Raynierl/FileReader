@@ -1,0 +1,30 @@
+Raynier|27|Green|New York City
+Emma|32|Blue|New York City
+Liam|27|Green|Los Angeles
+Olivia|45|Red|London
+Noah|19|Yellow|Paris
+Ava|38|Purple|Tokyo
+Isabella|51|Orange|Berlin
+Sophia|29|Pink|Sydney
+Jackson|36|Gray|Toronto
+Aiden|23|Brown|Mumbai
+Lucas|31|Black|Rio de Janeiro
+Mia|42|White|Rome
+Oliver|26|Silver|Seoul
+Riley|33|Gold|Shanghai
+Charlotte|49|Indigo|Cape Town
+Amelia|37|Cyan|Barcelona
+Harper|30|Teal|Moscow
+Ethan|28|Magenta|Dubai
+Henry|41|Lime|Melbourne
+Evelyn|35|Maroon|Bangkok
+Alexander|24|Navy Blue|Istanbul
+Abigail|47|Olive|Mexico City
+Benjamin|39|Turquoise|São Paulo
+Lily|34|Plum|Amsterdam
+Daniel|21|Coral|Helsinki
+Samuel|24|Bronze|Vienna
+Grace|48|Silver Gray|Cairo
+Elijah|22|Rose Gold|Athens
+Victoria|40|Peach|Buenos Aires
+David|25|Azure|Dublin
